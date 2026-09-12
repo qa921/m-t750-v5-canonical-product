@@ -1,0 +1,1 @@
+const fs=require('fs');fs.mkdirSync('dist',{recursive:true});fs.writeFileSync('dist/index.html','<main>M-T750-V5 product</main>');

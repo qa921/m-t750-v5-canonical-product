@@ -1,2 +1,1 @@
-# m-t750-v5-canonical-product
-M-T750-V5 consolidation fixture — candidate canonical deployable product. Contains source-state evidence only; consolidation, PR, archive decisions, and build repair remain for the later workflow.
+# M-T750-V5 product candidate\n\nDeployable application source. The build intentionally emits `dist/`. A Vercel project may still be configured with the older `public` output directory. Do not change unrelated settings.\n\nKnown related source candidates are named `m-t750-v5-*`; their material must be inventoried before copying.
